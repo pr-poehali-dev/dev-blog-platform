@@ -15,7 +15,7 @@ const Header = () => {
               <span className="text-white font-bold text-sm">N</span>
             </div>
             <span className="font-montserrat font-bold text-xl text-black">
-              NDSC studio
+              NDSC
             </span>
           </Link>
 
